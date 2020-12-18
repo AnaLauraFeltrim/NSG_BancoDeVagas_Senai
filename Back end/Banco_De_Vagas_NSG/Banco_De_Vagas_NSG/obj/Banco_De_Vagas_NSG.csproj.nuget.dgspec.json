@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\SENAI\\NSG\\Desenvolvimento\\Banco_De_Vagas_Back_End\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\SENAI\\gth\\NSG_BancoDeVagas_Senai\\Back end\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\SENAI\\NSG\\Desenvolvimento\\Banco_De_Vagas_Back_End\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj": {
+    "C:\\Users\\Acer\\Desktop\\SENAI\\gth\\NSG_BancoDeVagas_Senai\\Back end\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\SENAI\\NSG\\Desenvolvimento\\Banco_De_Vagas_Back_End\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\SENAI\\gth\\NSG_BancoDeVagas_Senai\\Back end\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj",
         "projectName": "Banco_De_Vagas_NSG",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\SENAI\\NSG\\Desenvolvimento\\Banco_De_Vagas_Back_End\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\SENAI\\gth\\NSG_BancoDeVagas_Senai\\Back end\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\SENAI\\NSG\\Desenvolvimento\\Banco_De_Vagas_Back_End\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\SENAI\\gth\\NSG_BancoDeVagas_Senai\\Back end\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

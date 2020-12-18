@@ -16,7 +16,7 @@ namespace Banco_De_Vagas_NSG.Repositories
     {
         Context ctx = new Context();
 
-        private string stringConexao = "Data Source=LUCASSOLIVEIRA\\SQLEXPRESS; Initial Catalog=BancoDeVagas; Integrated Security=True";
+        private string stringConexao = "Data Source=SERVIDOR\\SQLEXPRESS; Initial Catalog=BancoDeVagas; Integrated Security=True";
 
 		public async Task AlterarImagem(int id, string arquivonome)
 		{

@@ -23,7 +23,7 @@ namespace Banco_De_Vagas_NSG.Contexts
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=LUCASSOLIVEIRA\\SQLEXPRESS; Initial Catalog=BancoDeVagas; Integrated Security=True");
+                optionsBuilder.UseSqlServer("Data Source=SERVIDOR\\SQLEXPRESS; Initial Catalog=BancoDeVagas; Integrated Security=True");
             }
         }
 

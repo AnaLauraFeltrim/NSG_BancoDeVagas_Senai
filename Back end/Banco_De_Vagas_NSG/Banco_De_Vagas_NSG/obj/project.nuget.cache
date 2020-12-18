@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8tvjtGVU6KBZAf/bSpB2NGoAnJ2WScYKpvhiqrjmyANdXnXfoBx+xmYIfLlH3hrb0PykcEW8kzEZ/9F9epRcA==",
+  "dgSpecHash": "MZY1qCa9MhgB1uDGrDM8v42LJdFIjuG4cKE7JGY3IhkqQdmNJFwNGKurwUFixE9KwRvrN552C9do+e/aEdFMvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SENAI\\NSG\\Desenvolvimento\\Banco_De_Vagas_Back_End\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SENAI\\gth\\NSG_BancoDeVagas_Senai\\Back end\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG\\Banco_De_Vagas_NSG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\antlr\\3.5.0.2\\antlr.3.5.0.2.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\expressionevaluator\\2.0.4\\expressionevaluator.2.0.4.nupkg.sha512",
