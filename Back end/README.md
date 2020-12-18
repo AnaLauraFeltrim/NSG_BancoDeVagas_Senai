@@ -11,12 +11,23 @@ Há uma linha com a seguinte configuração
 
 if (!optionsBuilder.IsConfigured)
     {
-        optionsBuilder.UseSqlServer("Data Source=LUCASSOLIVEIRA\\SQLEXPRESS; Initial Catalog=BancoDeVagas; Integrated Security=True");
+        optionsBuilder.UseSqlServer("Data Source=SERVIDOR\\SQLEXPRESS; Initial Catalog=BancoDeVagas; Integrated Security=True");
     }
+
+![alt text](https://i.ibb.co/3r5XJFs/svgimg.jpg)
 
 Altere em "Data Source" para o seu servidor interno. 
 
 Caso não seja integrated Security, faça a mudança colocando "user=usuario;pw=senha" para a autenticação. 
+
+
+# Segunda etapa da conexão manual
+
+Não podemos esquecer do arquivo 'UsuárioRepository.cs' na pasta /repositories/
+
+Altere a informação "SERVIDOR" da string de conexão para aquela que represente o seu servidor local com as propriedades que se julgarem necessárias.
+
+![alt text](https://i.ibb.co/KGCQSnL/svgimg2.jpg)
 
 
 # CRIANDO O BANCO
@@ -37,3 +48,4 @@ O processo acima é importante para fazer a criação do banco de dados (é feit
 O esquema utilizado é exatamente o mesmo da modelagem. 
 
 Utilize o arquivo DML.sql para popular o seu banco.
+
