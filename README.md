@@ -1,2 +1,4 @@
 # NSG_BancoDeVagas_Senai
-Repositório destinado ao projeto banco de vagas, desenvolvido em grupo no curso Técnico em Desenvolvimento de Sistemas (2019-2020) - SENAI SÃO PAULO DE INFORMÁTICA. 
+
+![alt text](https://i.ibb.co/hWWjqKj/banco-de-vagas-img1.jpg)
+![alt text](https://i.ibb.co/9W7RH6m/banco-de-vagas-img2.jpg)
